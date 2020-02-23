@@ -77,7 +77,7 @@ class ProductTableSeeder extends Seeder
         'product_name' => 'Mapex Panther ',
         'category_id' => 1,
         'product_description' => 'Ultimativni Black Panther dobos! Napravljen od 3mm dobele celicne cevi koja je tako izlivena, a ne savijana, pa varena. Zbog toga ima topao zvuk i senzitivniji je od ostalih celicnih dobosa.',
-        'product_img' => 'Mapex Black Panther doboš.jpg',
+        'product_img' => 'Mapex Black Panther dobos.jpg',
         'product_quantity' => 20,
         'price' => 68280,
       ]);
@@ -119,7 +119,7 @@ class ProductTableSeeder extends Seeder
         'product_name' => 'AKG Bežični Mikrofon',
         'category_id' => 2,
         'product_description' => 'AKG Mini Dual vokal bežični mikrofon sa dve ručke super kvaliteta - najbolja cena.',
-        'product_img' => 'AKG Bežični Mikrofon - WMS40 Mini dual vocal set.jpg',
+        'product_img' => 'AKG Bezicni Mikrofon - WMS40 Mini dual vocal set.jpg',
         'product_quantity' => 20,
         'price' => 27650,
       ]);
@@ -129,7 +129,7 @@ class ProductTableSeeder extends Seeder
         'product_name' => 'AKG MKII slušalice',
         'category_id' => 2,
         'product_description' => 'Idealno za monitoring i broadcast.',
-        'product_img' => 'AKG K171 MKII slušalice.jpg',
+        'product_img' => 'AKG K171 MKII slusalice.jpg',
         'product_quantity' => 20,
         'price' => 15252,
       ]);
@@ -179,7 +179,7 @@ class ProductTableSeeder extends Seeder
         'product_name' => 'Vintage V300BKOFT',
         'category_id' => 3,
         'product_description' => 'Akustična gitara za početnike Vintage V300BKOFT',
-        'product_img' => 'Akustična gitara za početnike Vintage V300BKOFT.jpg',
+        'product_img' => 'Akustična gitara za pocetnike Vintage V300BKOFT.jpg',
         'product_quantity' => 20,
         'price' => 12368,
       ]);
@@ -219,7 +219,7 @@ class ProductTableSeeder extends Seeder
         'product_name' => 'Duesenberg Starplayer III Black',
         'category_id' => 3,
         'product_description' => 'Duesenberg Starplayer III Black električna gitara',
-        'product_img' => 'Duesenberg Starplayer III Black električna.jpg',
+        'product_img' => 'Duesenberg Starplayer III Black elektricna.jpg',
         'product_quantity' => 20,
         'price' => 95600,
       ]);
@@ -251,7 +251,7 @@ class ProductTableSeeder extends Seeder
         'product_name' => 'A Lyra TR 100',
         'category_id' => 4,
         'product_description' => 'A Lyra TR 100 školska truba',
-        'product_img' => 'A Lyra TR 100 školska truba.jpg',
+        'product_img' => 'A Lyra TR 100 skolska truba.jpg',
         'product_quantity' => 20,
         'price' => 16500,
       ]);
@@ -304,7 +304,7 @@ class ProductTableSeeder extends Seeder
         'product_name' => 'Casio AP 470BNC7 Celviano',
         'category_id' => 5,
         'product_description' => 'Casio AP 470BNC7 Celviano električni klavir',
-        'product_img' => 'Casio AP 470BNC7 Celviano električni klavir.jpg',
+        'product_img' => 'Casio AP 470BNC7 Celviano elektricni klavir.jpg',
         'product_quantity' => 20,
         'price' => 120000,
       ]);
@@ -396,7 +396,7 @@ class ProductTableSeeder extends Seeder
         'product_name' => 'JBL Eon 615',
         'category_id' => 6,
         'product_description' => 'JBL Eon 615 aktivni zvučnik',
-        'product_img' => 'JBL Eon 615 aktivni zvučnik.png',
+        'product_img' => 'JBL Eon 615 aktivni zvucnik.png',
         'product_quantity' => 20,
         'price' => 45000,
       ]);

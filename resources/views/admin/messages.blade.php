@@ -2,7 +2,7 @@
 
 @section('dashboard-content')
 <h4>Poruke</h4>
-<table class="table table-striped">
+<table class="table table-striped table-responsive-sm">
   <thead>
     <tr>
       <th style="width:10%">ID</th>

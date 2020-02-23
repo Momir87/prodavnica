@@ -19,7 +19,7 @@
     </form>
   </div>
 
-  <table class="table table-striped">
+  <table class="table table-striped table-responsive-sm">
 
     <thead>
       <tr>

@@ -3,7 +3,7 @@
 @section('dashboard-content')
 <h4>Proizvodi</h4>
   <a href="{{route('admin.createCategory')}}" class="btn btn-success my-3">Dodaj Kategoriju</a>
-  <table class="table table-striped">
+  <table class="table table-striped table-responsive-sm">
 
     <thead>
       <tr>

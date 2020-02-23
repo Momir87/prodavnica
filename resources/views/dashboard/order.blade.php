@@ -5,7 +5,7 @@
   <!-- kreiranje porudžbine -->
 
     <h4>Vaša porudžbina</h4>
-    <table id="cart" class="table table-striped table-hover table-condensed mb-5">
+    <table id="cart" class="table table-striped table-hover table-condensed mb-5 table-responsive-sm">
         <thead>
         <tr>
           <th style="width:50%">Proizvod</th>
