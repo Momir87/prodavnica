@@ -51,7 +51,7 @@ Svim korisnicima treba omogućiti prijavljivanje na sistem. Korisnik može, nako
   
 ## Publikovana verzija
 
-  Trenutno offline zbog promene politike 000webhostapp i ograničenja od 10000 u broju fajlova.
+  Trenutno offline zbog promene politike 000webhostapp i ograničenja od 10000 fajlova po hostu.
   
   https://mr-music.000webhostapp.com/
   
