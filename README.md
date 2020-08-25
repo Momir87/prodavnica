@@ -50,6 +50,9 @@ Svim korisnicima treba omogućiti prijavljivanje na sistem. Korisnik može, nako
   - MySQL
   
 ## Publikovana verzija
+
+  Trenutno offline zbog promene politike 000webhostapp i ograničenja od 10000 u broju fajlova.
+  
   https://mr-music.000webhostapp.com/
   
   Za testiranje:
